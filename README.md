@@ -54,10 +54,10 @@
 <br>
           <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moudyash&show_icons=fasle&locale=en&layout=compact%22%20alt=%22Moudyash%22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedyashour&show_icons=fasle&locale=en&layout=compact%22%20alt=%mohammedyashour%22" /></p>
 <br
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moudyash&show_icons=true&locale=en" alt="moudyash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedyashour&show_icons=true&locale=en" alt="mohammedyashour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moudyash&" alt="moudyash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedyashour&" alt="mohammedyashour" /></p>
 
